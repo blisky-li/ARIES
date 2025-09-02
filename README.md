@@ -10,19 +10,19 @@ Our baselines come from BasicTS: https://github.com/GestaltCogTeam/BasicTS
 
 
 
-\_\_\_
+___
 
 
 
-\# 🔮 ARIES: Relation Assessment \& Model Recommendations for Time Series Forecasting
+# 🔮 ARIES: Relation Assessment \& Model Recommendations for Time Series Forecasting
 
 
 
-\## 📌 Topic  
+## 📌 Topic  
 
 Recent advancements in deep learning models for \*\*time series forecasting\*\* have been significant.  
 
-These models leverage key properties like \*\*seasonality\*\* ⏳ and \*\*non-stationarity\*\* 📈 as their motivations, indicating a strong link between \*\*model performance\*\* and \*\*data properties\*\*.  
+These models leverage key properties like **seasonality** ⏳ and **non-stationarity** 📈 as their motivations, indicating a strong link between **model performance** and **data properties**.  
 
 
 
@@ -32,13 +32,13 @@ These models leverage key properties like \*\*seasonality\*\* ⏳ and \*\*non-st
 
 
 
-\## ⚡ Challenges  
+## ⚡ Challenges  
 
-\- 📉 Benchmark datasets fail to represent \*\*stable and comprehensive temporal patterns\*\*.  
+- 📉 Benchmark datasets fail to represent **stable and comprehensive temporal patterns**.  
 
-\- 🔍 Lack of systematic analysis of the \*\*relationship between data properties and modeling strategies\*\*.  
+- 🔍 Lack of systematic analysis of the **relationship between data properties and modeling strategies**.  
 
-\- ⏱️ No effective \*\*model recommendation system\*\* exists, leading to \*\*time-consuming\*\* and \*\*costly\*\* experimentation.  
+- ⏱️ No effective **model recommendation system** exists, leading to **time-consuming** and **costly** experimentation.  
 
 
 
@@ -48,25 +48,25 @@ These models leverage key properties like \*\*seasonality\*\* ⏳ and \*\*non-st
 
 
 
-\## 🚀 Our Approach (ARIES)  
+## 🚀 Our Approach (ARIES)  
 
-We introduce \*\*ARIES\*\*, a unified framework for \*\*assessing the relationship\*\* between time series properties and modeling strategies, and for \*\*recommending deep forecasting models\*\*.  
+We introduce **ARIES**, a unified framework for **assessing the relationship** between time series properties and modeling strategies, and for **recommending deep forecasting models**.  
 
 
 
-1\. 🧪 \*\*Synthetic Dataset Construction\*\*  
+1. 🧪 **Synthetic Dataset Construction**  
 
-&nbsp;  - Build datasets with \*\*multiple distinct temporal patterns\*\*.  
+ - Build datasets with **multiple distinct temporal patterns**.  
 
-2\. 📊 \*\*Property Computation\*\*  
+2. 📊 **Property Computation**  
 
-&nbsp;  - Develop a \*\*comprehensive system\*\* to quantify key time series properties.  
+  - Develop a **comprehensive system** to quantify key time series properties.  
 
-3\. 🔬 \*\*Benchmarking 50+ Models\*\*  
+3. 🔬 **Benchmarking 50+ Models**  
 
-&nbsp;  - Establish connections between \*\*data properties\*\* and \*\*forecasting strategies\*\*.  
+  - Establish connections between **data properties** and **forecasting strategies**.  
 
-4\. 🤖 \*\*Model Recommendation\*\*  
+4. 🤖 **Model Recommendation**  
 
-&nbsp;  - Propose the \*\*first deep forecasting model recommender\*\*, offering \*\*interpretable suggestions\*\* for real-world time series. 
+  - Propose the **first deep forecasting model recommender**, offering **interpretable suggestions** for real-world time series. 
 
