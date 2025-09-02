@@ -8,11 +8,11 @@ if __name__ == '__main__':
     path = 'data/'
     name = 'ETTh1_sampled.npy'
     length = 336
-    strid = 24
+    strid = 720
     n_job = 20
     mode = 'large'
     query = 'mae'
-    samples_rate = 1
+    samples_rate = 0.1
     data = read_npy(path, name, length, strid)
     # data2 = read_npy(path, 'ETTh1inputs.npy', length, strid)
     compute_indicators(data, n_job, name.split('.')[0], path, length, mode)
