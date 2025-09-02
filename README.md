@@ -70,3 +70,24 @@ We introduce **ARIES**, a unified framework for **assessing the relationship** b
 
   - Propose the **first deep forecasting model recommender**, offering **interpretable suggestions** for real-world time series. 
 
+---
+
+## 🤖 Baselines
+
+- **Traditional local forecasting methods:**  
+  AR, MA, ARMA, ARIMA, ARCH, GARCH, SARIMA, SES, ETS  
+
+- **Machine learning methods:**  
+  SVR, PolySVR, CatBoost, LightGBM  
+
+- **Transformer-based deep learning methods:**  
+  Autoformer, Crossformer, DSFormer, ETSformer, FEDformer, Fredformer, Informer, iTransformer, NSformer, PatchTST, Pyraformer, Triformer  
+
+- **MLP-based deep learning methods:**  
+  CATS, CycleNet, DLinear, FiLM, FreTS, Koopa, LightTS, MTSMixer, NBeats, NHiTS, NLinear, SOFTS, SparseTSF, STID, TiDE, TimeMixer, TimesNet, UMixer  
+
+- **Foundational models:**  
+  MOIRAI (Base & Large), Time-MoE  
+
+- **Others:**  
+  DeepAR, HI, SegRNN, Sumba, WaveNet  
