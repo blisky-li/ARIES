@@ -26,11 +26,15 @@ ___
 
 ## 📌 Topic  
 
-Recent advancements in deep learning models for \*\*time series forecasting\*\* have been significant.  
+Recent advancements in deep learning models for **time series forecasting** have been significant.  
 
 These models leverage key properties like **seasonality** ⏳ and **non-stationarity** 📈 as their motivations, indicating a strong link between **model performance** and **data properties**.  
 
+Naturally, we will pose the following questions:
 
+- *How do deep modeling strategies favor specific time series properties?*
+
+- *How to recommend deep models based on time series properties?*
 
 
 
