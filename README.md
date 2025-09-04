@@ -1,4 +1,10 @@
-# ARIES
+<div align="center">
+  <font size=55>
+    <h1>
+    ARIES
+    </h1>
+  </font>
+</div>
 
 ARIES: Relation Assessment and Model Recommendations for Time Series Forecasting
 Submit an article to TPAMI.
