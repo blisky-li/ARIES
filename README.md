@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   <font size=55>
     <h1>
     ARIES
@@ -36,6 +36,7 @@ Naturally, we will pose the following questions:
 
 - *How to recommend deep models based on time series properties?*
 
+<img src="FigureS/motivation.png" alt="Motivation" width="600">
 
 
 ---
