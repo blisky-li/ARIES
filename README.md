@@ -36,7 +36,7 @@ Naturally, we will pose the following questions:
 
 - *How to recommend deep models based on time series properties?*
 
-<img src="FigureS/motivation.png" alt="Motivation" width="600">
+<img src="Figures/motivation.png" alt="Motivation" width="900">
 
 
 ---
