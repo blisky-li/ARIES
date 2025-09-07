@@ -84,6 +84,7 @@ We introduce **ARIES**, a unified framework for **assessing the relationship** b
 ---
 
 ## 🤖 Baselines
+The baselines come from BasicTS: https://github.com/GestaltCogTeam/BasicTS , version 2024.09. Due to pipeline updates, the data partitioning appears to differ from the latest version. We will address this in a future release of ARIES.
 
 - **Traditional local forecasting methods:**  
   AR, MA, ARMA, ARIMA, ARCH, GARCH, SARIMA, SES, ETS  
