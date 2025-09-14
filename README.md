@@ -106,6 +106,21 @@ The baselines come from BasicTS: https://github.com/GestaltCogTeam/BasicTS , ver
 - **Others:**  
   DeepAR, HI, SegRNN, Sumba, WaveNet
 
+
+## 📜 Citation
+
+The citation:
+
+```Latex
+@article{wang2025aries,
+  title={ARIES: Relation Assessment and Model Recommendation for Deep Time Series Forecasting},
+  author={Wang, Fei and Li, Yujie and Shao, Zezhi and Yu, Chengqing and Fu, Yisong and An, Zhulin and Xu, Yongjun and Cheng, Xueqi},
+  journal={arXiv preprint arXiv:2509.06060},
+  year={2025}
+}
+```
+
+
 ## 🔬 Existing performance results
 
 ### Regular
