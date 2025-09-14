@@ -24,6 +24,16 @@ ___
 
 # 🔮 ARIES: Relation Assessment \& Model Recommendations for Time Series Forecasting
 
+<p align="center">
+
+[![Paper](https://img.shields.io/badge/arXiv-2509.06060-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.06060)
+[![Baselines](https://img.shields.io/badge/Baselines-BasicTS-181717?logo=github)](https://github.com/GestaltCogTeam/BasicTS)
+[![Dataset](https://img.shields.io/badge/Dataset-ARIES__Synth-fcc72c?logo=huggingface)](https://huggingface.co/datasets/Blisky-li/ARIES_Synth)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-ARIES-0A0FFF?logo=gradio)](https://huggingface.co/spaces/Blisky-li/ARIES-TEST)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey?logo=creativecommons)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+</p>
+
 
 
 ## 📌 Topic  
