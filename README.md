@@ -18,6 +18,7 @@ Our datasets is upload to Hugging Face: https://huggingface.co/datasets/Blisky-l
 
 Our paper is now accessible： https://arxiv.org/abs/2509.06060
 
+Our performance leaderboard has been published on Hugging Face： https://huggingface.co/spaces/Blisky-li/ARIES-TEST
 ___
 
 
