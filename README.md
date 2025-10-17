@@ -7,8 +7,7 @@
 </div>
 
 ARIES: Relation Assessment and Model Recommendations for Time Series Forecasting
-Submit an article to TPAMI.
-Under review
+Submit an article to TPAMI. Under review
 
 ## The repository is currently under construction.
 
